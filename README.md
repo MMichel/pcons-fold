@@ -5,6 +5,9 @@ PconsFold
 
 A pipeline for protein folding using predicted contacts from PconsC and a  Rosetta folding protocol.
 
+## Remark:
+PconsC2 functionality will be uploaded a.s.a.p.
+Further, you find all models and predicted PconsC contacts on the page for release v1.0. We will also add PconsC2 data a.s.a.p.
 
 ## Pipeline overview:
 

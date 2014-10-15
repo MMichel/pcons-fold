@@ -2,7 +2,7 @@ PconsFold
 =========
 
 ## Remark:
-This branch is deprecated! Please use [https://github.com/ElofssonLab/pcons-fold](https://github.com/ElofssonLab/pcons-fold) instead.
+This branch is __deprecated__! Please use [https://github.com/ElofssonLab/pcons-fold](https://github.com/ElofssonLab/pcons-fold) instead.
 
 ## Pipeline overview:
 
